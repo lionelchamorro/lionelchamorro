@@ -1,4 +1,6 @@
-<img src="./profile.jpg" width="190" align="right" alt="Lionel Chamorro" />
+<table>
+<tr>
+<td valign="top">
 
 # Hi, I'm Lionel 👋
 
@@ -8,7 +10,14 @@ I build AI systems that move from research to production, with a current focus o
 
 I also enjoy working at the intersection of **mathematics, deep learning, developer tooling, and chess**.
 
-<br clear="right"/>
+</td>
+<td width="220" valign="top" align="right">
+
+<img src="./profile.jpg" width="190" alt="Lionel Chamorro" />
+
+</td>
+</tr>
+</table>
 
 ## What I'm working on
 
